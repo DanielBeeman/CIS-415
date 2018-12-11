@@ -1,0 +1,6 @@
+This project took me a long time, and I think the biggest struggle was with the various pointers I needed to use. Roscoe was very helpful in 
+providing support and pointing me (no pun intended) in the right direction. After completing the tests and writing my main, working on memory
+errors also took me a while to complete. I have cited my sources and everything should work properly.
+
+
+~Daniel
