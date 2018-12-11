@@ -1,0 +1,3523 @@
+
+ Sub thread running.
+
+ thread id = -937634048.
+
+ Created topic entry.
+
+ Pub thread running.
+
+ thread id = -929241344.
+
+ Created topic entry.
+
+ Creating the topic lock.
+ Creating a topic: 0
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 1
+Next entry removed will be come from index 0
+Highest topic number is 1
+Message said Season's Greetings!
+Entry number 1
+----------
+
+ Creating a topic: 1
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 2
+Next entry removed will be come from index 0
+Highest topic number is 2
+Message said Season's Greetings!
+Entry number 2
+----------
+
+ Creating a topic: 2
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 3
+Next entry removed will be come from index 0
+Highest topic number is 3
+Message said Season's Greetings!
+Entry number 3
+----------
+
+ Creating a topic: 3
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 4
+Next entry removed will be come from index 0
+Highest topic number is 4
+Message said Season's Greetings!
+Entry number 4
+----------
+
+ Creating a topic: 4
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 5
+Next entry removed will be come from index 0
+Highest topic number is 5
+Message said Season's Greetings!
+Entry number 5
+----------
+
+ Creating a topic: 5
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 6
+Next entry removed will be come from index 0
+Highest topic number is 6
+Message said Season's Greetings!
+Entry number 6
+----------
+
+ Creating a topic: 6
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 7
+Next entry removed will be come from index 0
+Highest topic number is 7
+Message said Season's Greetings!
+Entry number 7
+----------
+
+ Creating a topic: 7
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 8
+Next entry removed will be come from index 0
+Highest topic number is 8
+Message said Season's Greetings!
+Entry number 8
+----------
+
+ Creating a topic: 8
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 9
+Next entry removed will be come from index 0
+Highest topic number is 9
+Message said Season's Greetings!
+Entry number 9
+----------
+
+ Creating a topic: 9
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 10
+Next entry removed will be come from index 0
+Highest topic number is 10
+Message said Season's Greetings!
+Entry number 10
+----------
+
+ Creating a topic: 10
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 11
+Next entry removed will be come from index 0
+Highest topic number is 11
+Message said Season's Greetings!
+Entry number 11
+----------
+
+ Creating a topic: 11
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 12
+Next entry removed will be come from index 0
+Highest topic number is 12
+Message said Season's Greetings!
+Entry number 12
+----------
+
+ Creating a topic: 12
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 13
+Next entry removed will be come from index 0
+Highest topic number is 13
+Message said Season's Greetings!
+Entry number 13
+----------
+
+ Creating a topic: 13
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 14
+Next entry removed will be come from index 0
+Highest topic number is 14
+Message said Season's Greetings!
+Entry number 14
+----------
+
+ Creating a topic: 14
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 15
+Next entry removed will be come from index 0
+Highest topic number is 15
+Message said Season's Greetings!
+Entry number 15
+----------
+
+ Creating a topic: 15
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 16
+Next entry removed will be come from index 0
+Highest topic number is 16
+Message said Season's Greetings!
+Entry number 16
+----------
+
+ Creating a topic: 16
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 17
+Next entry removed will be come from index 0
+Highest topic number is 17
+Message said Season's Greetings!
+Entry number 17
+----------
+
+ Creating a topic: 17
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 18
+Next entry removed will be come from index 0
+Highest topic number is 18
+Message said Season's Greetings!
+Entry number 18
+----------
+
+ Creating a topic: 18
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 19
+Next entry removed will be come from index 0
+Highest topic number is 19
+Message said Season's Greetings!
+Entry number 19
+----------
+
+ Creating a topic: 19
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 20
+Next entry removed will be come from index 0
+Highest topic number is 20
+Message said Season's Greetings!
+Entry number 20
+----------
+
+ Creating a topic: 20
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 21
+Next entry removed will be come from index 0
+Highest topic number is 21
+Message said Season's Greetings!
+Entry number 21
+----------
+
+ Creating a topic: 21
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 22
+Next entry removed will be come from index 0
+Highest topic number is 22
+Message said Season's Greetings!
+Entry number 22
+----------
+
+ Creating a topic: 22
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 23
+Next entry removed will be come from index 0
+Highest topic number is 23
+Message said Season's Greetings!
+Entry number 23
+----------
+
+ Creating a topic: 23
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 24
+Next entry removed will be come from index 0
+Highest topic number is 24
+Message said Season's Greetings!
+Entry number 24
+----------
+
+ Creating a topic: 24
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 25
+Next entry removed will be come from index 0
+Highest topic number is 25
+Message said Season's Greetings!
+Entry number 25
+----------
+
+ Creating a topic: 25
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 26
+Next entry removed will be come from index 0
+Highest topic number is 26
+Message said Season's Greetings!
+Entry number 26
+----------
+
+ Creating a topic: 26
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 27
+Next entry removed will be come from index 0
+Highest topic number is 27
+Message said Season's Greetings!
+Entry number 27
+----------
+
+ Creating a topic: 27
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 28
+Next entry removed will be come from index 0
+Highest topic number is 28
+Message said Season's Greetings!
+Entry number 28
+----------
+
+ Creating a topic: 28
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 29
+Next entry removed will be come from index 0
+Highest topic number is 29
+Message said Season's Greetings!
+Entry number 29
+----------
+
+ Creating a topic: 29
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 30
+Next entry removed will be come from index 0
+Highest topic number is 30
+Message said Season's Greetings!
+Entry number 30
+----------
+
+ Creating a topic: 30
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 31
+Next entry removed will be come from index 0
+Highest topic number is 31
+Message said Season's Greetings!
+Entry number 31
+----------
+
+ Creating a topic: 31
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 32
+Next entry removed will be come from index 0
+Highest topic number is 32
+Message said Season's Greetings!
+Entry number 32
+----------
+
+ Creating a topic: 32
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 33
+Next entry removed will be come from index 0
+Highest topic number is 33
+Message said Season's Greetings!
+Entry number 33
+----------
+
+ Creating a topic: 33
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 34
+Next entry removed will be come from index 0
+Highest topic number is 34
+Message said Season's Greetings!
+Entry number 34
+----------
+
+ Creating a topic: 34
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 35
+Next entry removed will be come from index 0
+Highest topic number is 35
+Message said Season's Greetings!
+Entry number 35
+----------
+
+ Creating a topic: 35
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 36
+Next entry removed will be come from index 0
+Highest topic number is 36
+Message said Season's Greetings!
+Entry number 36
+----------
+
+ Creating a topic: 36
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 37
+Next entry removed will be come from index 0
+Highest topic number is 37
+Message said Season's Greetings!
+Entry number 37
+----------
+
+ Creating a topic: 37
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 38
+Next entry removed will be come from index 0
+Highest topic number is 38
+Message said Season's Greetings!
+Entry number 38
+----------
+
+ Creating a topic: 38
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 39
+Next entry removed will be come from index 0
+Highest topic number is 39
+Message said Season's Greetings!
+Entry number 39
+----------
+
+ Creating a topic: 39
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 40
+Next entry removed will be come from index 0
+Highest topic number is 40
+Message said Season's Greetings!
+Entry number 40
+----------
+
+ Creating a topic: 40
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 41
+Next entry removed will be come from index 0
+Highest topic number is 41
+Message said Season's Greetings!
+Entry number 41
+----------
+
+ Creating a topic: 41
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 42
+Next entry removed will be come from index 0
+Highest topic number is 42
+Message said Season's Greetings!
+Entry number 42
+----------
+
+ Creating a topic: 42
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 43
+Next entry removed will be come from index 0
+Highest topic number is 43
+Message said Season's Greetings!
+Entry number 43
+----------
+
+ Creating a topic: 43
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 44
+Next entry removed will be come from index 0
+Highest topic number is 44
+Message said Season's Greetings!
+Entry number 44
+----------
+
+ Creating a topic: 44
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 45
+Next entry removed will be come from index 0
+Highest topic number is 45
+Message said Season's Greetings!
+Entry number 45
+----------
+
+ Creating a topic: 45
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 46
+Next entry removed will be come from index 0
+Highest topic number is 46
+Message said Season's Greetings!
+Entry number 46
+----------
+
+ Creating a topic: 46
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 47
+Next entry removed will be come from index 0
+Highest topic number is 47
+Message said Season's Greetings!
+Entry number 47
+----------
+
+ Creating a topic: 47
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 48
+Next entry removed will be come from index 0
+Highest topic number is 48
+Message said Season's Greetings!
+Entry number 48
+----------
+
+ Creating a topic: 48
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 49
+Next entry removed will be come from index 0
+Highest topic number is 49
+Message said Season's Greetings!
+Entry number 49
+----------
+
+ Creating a topic: 49
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 50
+Next entry removed will be come from index 0
+Highest topic number is 50
+Message said Season's Greetings!
+Entry number 50
+----------
+
+ Creating a topic: 50
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 51
+Next entry removed will be come from index 0
+Highest topic number is 51
+Message said Season's Greetings!
+Entry number 51
+----------
+
+ Creating a topic: 51
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 52
+Next entry removed will be come from index 0
+Highest topic number is 52
+Message said Season's Greetings!
+Entry number 52
+----------
+
+ Creating a topic: 52
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 53
+Next entry removed will be come from index 0
+Highest topic number is 53
+Message said Season's Greetings!
+Entry number 53
+----------
+
+ Creating a topic: 53
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 54
+Next entry removed will be come from index 0
+Highest topic number is 54
+Message said Season's Greetings!
+Entry number 54
+----------
+
+ Creating a topic: 54
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 55
+Next entry removed will be come from index 0
+Highest topic number is 55
+Message said Season's Greetings!
+Entry number 55
+----------
+
+ Creating a topic: 55
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 56
+Next entry removed will be come from index 0
+Highest topic number is 56
+Message said Season's Greetings!
+Entry number 56
+----------
+
+ Creating a topic: 56
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 57
+Next entry removed will be come from index 0
+Highest topic number is 57
+Message said Season's Greetings!
+Entry number 57
+----------
+
+ Creating a topic: 57
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 58
+Next entry removed will be come from index 0
+Highest topic number is 58
+Message said Season's Greetings!
+Entry number 58
+----------
+
+ Creating a topic: 58
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 59
+Next entry removed will be come from index 0
+Highest topic number is 59
+Message said Season's Greetings!
+Entry number 59
+----------
+
+ Creating a topic: 59
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 60
+Next entry removed will be come from index 0
+Highest topic number is 60
+Message said Season's Greetings!
+Entry number 60
+----------
+
+ Creating a topic: 60
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 61
+Next entry removed will be come from index 0
+Highest topic number is 61
+Message said Season's Greetings!
+Entry number 61
+----------
+
+ Creating a topic: 61
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 62
+Next entry removed will be come from index 0
+Highest topic number is 62
+Message said Season's Greetings!
+Entry number 62
+----------
+
+ Creating a topic: 62
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 63
+Next entry removed will be come from index 0
+Highest topic number is 63
+Message said Season's Greetings!
+Entry number 63
+----------
+
+ Creating a topic: 63
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 64
+Next entry removed will be come from index 0
+Highest topic number is 64
+Message said Season's Greetings!
+Entry number 64
+----------
+
+ Creating a topic: 64
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 65
+Next entry removed will be come from index 0
+Highest topic number is 65
+Message said Season's Greetings!
+Entry number 65
+----------
+
+ Creating a topic: 65
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 66
+Next entry removed will be come from index 0
+Highest topic number is 66
+Message said Season's Greetings!
+Entry number 66
+----------
+
+ Creating a topic: 66
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 67
+Next entry removed will be come from index 0
+Highest topic number is 67
+Message said Season's Greetings!
+Entry number 67
+----------
+
+ Creating a topic: 67
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 68
+Next entry removed will be come from index 0
+Highest topic number is 68
+Message said Season's Greetings!
+Entry number 68
+----------
+
+ Creating a topic: 68
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 69
+Next entry removed will be come from index 0
+Highest topic number is 69
+Message said Season's Greetings!
+Entry number 69
+----------
+
+ Creating a topic: 69
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 70
+Next entry removed will be come from index 0
+Highest topic number is 70
+Message said Season's Greetings!
+Entry number 70
+----------
+
+ Creating a topic: 70
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 71
+Next entry removed will be come from index 0
+Highest topic number is 71
+Message said Season's Greetings!
+Entry number 71
+----------
+
+ Creating a topic: 71
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 72
+Next entry removed will be come from index 0
+Highest topic number is 72
+Message said Season's Greetings!
+Entry number 72
+----------
+
+ Creating a topic: 72
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 73
+Next entry removed will be come from index 0
+Highest topic number is 73
+Message said Season's Greetings!
+Entry number 73
+----------
+
+ Creating a topic: 73
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 74
+Next entry removed will be come from index 0
+Highest topic number is 74
+Message said Season's Greetings!
+Entry number 74
+----------
+
+ Creating a topic: 74
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 75
+Next entry removed will be come from index 0
+Highest topic number is 75
+Message said Season's Greetings!
+Entry number 75
+----------
+
+ Creating a topic: 75
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 76
+Next entry removed will be come from index 0
+Highest topic number is 76
+Message said Season's Greetings!
+Entry number 76
+----------
+
+ Creating a topic: 76
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 77
+Next entry removed will be come from index 0
+Highest topic number is 77
+Message said Season's Greetings!
+Entry number 77
+----------
+
+ Creating a topic: 77
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 78
+Next entry removed will be come from index 0
+Highest topic number is 78
+Message said Season's Greetings!
+Entry number 78
+----------
+
+ Creating a topic: 78
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 79
+Next entry removed will be come from index 0
+Highest topic number is 79
+Message said Season's Greetings!
+Entry number 79
+----------
+
+ Creating a topic: 79
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 80
+Next entry removed will be come from index 0
+Highest topic number is 80
+Message said Season's Greetings!
+Entry number 80
+----------
+
+ Creating a topic: 80
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 81
+Next entry removed will be come from index 0
+Highest topic number is 81
+Message said Season's Greetings!
+Entry number 81
+----------
+
+ Creating a topic: 81
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 82
+Next entry removed will be come from index 0
+Highest topic number is 82
+Message said Season's Greetings!
+Entry number 82
+----------
+
+ Creating a topic: 82
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 83
+Next entry removed will be come from index 0
+Highest topic number is 83
+Message said Season's Greetings!
+Entry number 83
+----------
+
+ Creating a topic: 83
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 84
+Next entry removed will be come from index 0
+Highest topic number is 84
+Message said Season's Greetings!
+Entry number 84
+----------
+
+ Creating a topic: 84
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 85
+Next entry removed will be come from index 0
+Highest topic number is 85
+Message said Season's Greetings!
+Entry number 85
+----------
+
+ Creating a topic: 85
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 86
+Next entry removed will be come from index 0
+Highest topic number is 86
+Message said Season's Greetings!
+Entry number 86
+----------
+
+ Creating a topic: 86
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 87
+Next entry removed will be come from index 0
+Highest topic number is 87
+Message said Season's Greetings!
+Entry number 87
+----------
+
+ Creating a topic: 87
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 88
+Next entry removed will be come from index 0
+Highest topic number is 88
+Message said Season's Greetings!
+Entry number 88
+----------
+
+ Creating a topic: 88
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 89
+Next entry removed will be come from index 0
+Highest topic number is 89
+Message said Season's Greetings!
+Entry number 89
+----------
+
+ Creating a topic: 89
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 90
+Next entry removed will be come from index 0
+Highest topic number is 90
+Message said Season's Greetings!
+Entry number 90
+----------
+
+ Creating a topic: 90
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 91
+Next entry removed will be come from index 0
+Highest topic number is 91
+Message said Season's Greetings!
+Entry number 91
+----------
+
+ Creating a topic: 91
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 92
+Next entry removed will be come from index 0
+Highest topic number is 92
+Message said Season's Greetings!
+Entry number 92
+----------
+
+ Creating a topic: 92
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 93
+Next entry removed will be come from index 0
+Highest topic number is 93
+Message said Season's Greetings!
+Entry number 93
+----------
+
+ Creating a topic: 93
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 94
+Next entry removed will be come from index 0
+Highest topic number is 94
+Message said Season's Greetings!
+Entry number 94
+----------
+
+ Creating a topic: 94
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 95
+Next entry removed will be come from index 0
+Highest topic number is 95
+Message said Season's Greetings!
+Entry number 95
+----------
+
+ Creating a topic: 95
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 96
+Next entry removed will be come from index 0
+Highest topic number is 96
+Message said Season's Greetings!
+Entry number 96
+----------
+
+ Creating a topic: 96
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 97
+Next entry removed will be come from index 0
+Highest topic number is 97
+Message said Season's Greetings!
+Entry number 97
+----------
+
+ Creating a topic: 97
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 98
+Next entry removed will be come from index 0
+Highest topic number is 98
+Message said Season's Greetings!
+Entry number 98
+----------
+
+ Creating a topic: 98
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 99
+Next entry removed will be come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 99
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 1
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 2
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 3
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 4
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 5
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 6
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 7
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 8
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 9
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 10
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 11
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 12
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 13
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 14
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 15
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 16
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 17
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 18
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 19
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 20
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 21
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 22
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 23
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 24
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 25
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 26
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 27
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 28
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 29
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 30
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 31
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 32
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 33
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 34
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 35
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 36
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 37
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 38
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 39
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 40
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 41
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 42
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 43
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 44
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 45
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 46
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 47
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 48
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 49
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 50
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 51
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 52
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 53
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 54
+----------
+
+ Creating a topic: 0
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 55
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 56
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 57
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 58
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 59
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 60
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 61
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 62
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 63
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 64
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 65
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 66
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 67
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 68
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 69
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 70
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 71
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 72
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 73
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 74
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 75
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 76
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 77
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 78
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 79
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 80
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 81
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 82
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 83
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 84
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 85
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 86
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 87
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 88
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 89
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 99
+Next entry removed will come from index 0
+Highest topic number is 99
+Message said Season's Greetings!
+Entry number 90
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 1
+message was 16 seconds old.
+next entry will be placed at index 1
+next entry will be removed from index 1
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 2
+message was 16 seconds old.
+next entry will be placed at index 2
+next entry will be removed from index 2
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 3
+message was 16 seconds old.
+next entry will be placed at index 3
+next entry will be removed from index 3
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 4
+message was 16 seconds old.
+next entry will be placed at index 4
+next entry will be removed from index 4
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 5
+message was 16 seconds old.
+next entry will be placed at index 5
+next entry will be removed from index 5
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 6
+message was 16 seconds old.
+next entry will be placed at index 6
+next entry will be removed from index 6
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 7
+message was 16 seconds old.
+next entry will be placed at index 7
+next entry will be removed from index 7
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 8
+message was 16 seconds old.
+next entry will be placed at index 8
+next entry will be removed from index 8
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 9
+message was 16 seconds old.
+next entry will be placed at index 9
+next entry will be removed from index 9
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 10
+message was 16 seconds old.
+next entry will be placed at index 10
+next entry will be removed from index 10
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 11
+message was 16 seconds old.
+next entry will be placed at index 11
+next entry will be removed from index 11
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 12
+message was 16 seconds old.
+next entry will be placed at index 12
+next entry will be removed from index 12
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 13
+message was 16 seconds old.
+next entry will be placed at index 13
+next entry will be removed from index 13
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 14
+message was 16 seconds old.
+next entry will be placed at index 14
+next entry will be removed from index 14
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 15
+message was 16 seconds old.
+next entry will be placed at index 15
+next entry will be removed from index 15
+----------
+
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 0
+Next entry removed will be come from index 15
+Highest topic number is 100
+Message said Season's Greetings!
+Entry number 100
+----------
+
+ Creating a topic: 1
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 1
+Next entry removed will be come from index 15
+Highest topic number is 101
+Message said Season's Greetings!
+Entry number 101
+----------
+
+ Creating a topic: 2
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 2
+Next entry removed will be come from index 15
+Highest topic number is 102
+Message said Season's Greetings!
+Entry number 102
+----------
+
+ Creating a topic: 3
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 3
+Next entry removed will be come from index 15
+Highest topic number is 103
+Message said Season's Greetings!
+Entry number 103
+----------
+
+ Creating a topic: 4
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 4
+Next entry removed will be come from index 15
+Highest topic number is 104
+Message said Season's Greetings!
+Entry number 104
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 16
+message was 16 seconds old.
+next entry will be placed at index 16
+next entry will be removed from index 16
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 17
+message was 16 seconds old.
+next entry will be placed at index 17
+next entry will be removed from index 17
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 18
+message was 16 seconds old.
+next entry will be placed at index 18
+next entry will be removed from index 18
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 19
+message was 16 seconds old.
+next entry will be placed at index 19
+next entry will be removed from index 19
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 20
+message was 16 seconds old.
+next entry will be placed at index 20
+next entry will be removed from index 20
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 21
+message was 16 seconds old.
+next entry will be placed at index 21
+next entry will be removed from index 21
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 22
+message was 16 seconds old.
+next entry will be placed at index 22
+next entry will be removed from index 22
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 23
+message was 16 seconds old.
+next entry will be placed at index 23
+next entry will be removed from index 23
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 24
+message was 16 seconds old.
+next entry will be placed at index 24
+next entry will be removed from index 24
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 25
+message was 16 seconds old.
+next entry will be placed at index 25
+next entry will be removed from index 25
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 26
+message was 16 seconds old.
+next entry will be placed at index 26
+next entry will be removed from index 26
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 27
+message was 16 seconds old.
+next entry will be placed at index 27
+next entry will be removed from index 27
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 28
+message was 16 seconds old.
+next entry will be placed at index 28
+next entry will be removed from index 28
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 29
+message was 16 seconds old.
+next entry will be placed at index 29
+next entry will be removed from index 29
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 30
+message was 16 seconds old.
+next entry will be placed at index 30
+next entry will be removed from index 30
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 31
+message was 16 seconds old.
+next entry will be placed at index 31
+next entry will be removed from index 31
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 32
+message was 16 seconds old.
+next entry will be placed at index 32
+next entry will be removed from index 32
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 33
+message was 16 seconds old.
+next entry will be placed at index 33
+next entry will be removed from index 33
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 34
+message was 16 seconds old.
+next entry will be placed at index 34
+next entry will be removed from index 34
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 35
+message was 16 seconds old.
+next entry will be placed at index 35
+next entry will be removed from index 35
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 36
+message was 16 seconds old.
+next entry will be placed at index 36
+next entry will be removed from index 36
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 37
+message was 16 seconds old.
+next entry will be placed at index 37
+next entry will be removed from index 37
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 38
+message was 16 seconds old.
+next entry will be placed at index 38
+next entry will be removed from index 38
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 39
+message was 16 seconds old.
+next entry will be placed at index 39
+next entry will be removed from index 39
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 40
+message was 16 seconds old.
+next entry will be placed at index 40
+next entry will be removed from index 40
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 41
+message was 16 seconds old.
+next entry will be placed at index 41
+next entry will be removed from index 41
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 42
+message was 16 seconds old.
+next entry will be placed at index 42
+next entry will be removed from index 42
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 43
+message was 16 seconds old.
+next entry will be placed at index 43
+next entry will be removed from index 43
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 44
+message was 16 seconds old.
+next entry will be placed at index 44
+next entry will be removed from index 44
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 45
+message was 16 seconds old.
+next entry will be placed at index 45
+next entry will be removed from index 45
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 46
+message was 16 seconds old.
+next entry will be placed at index 46
+next entry will be removed from index 46
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 47
+message was 16 seconds old.
+next entry will be placed at index 47
+next entry will be removed from index 47
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 48
+message was 16 seconds old.
+next entry will be placed at index 48
+next entry will be removed from index 48
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 49
+message was 16 seconds old.
+next entry will be placed at index 49
+next entry will be removed from index 49
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 50
+message was 16 seconds old.
+next entry will be placed at index 50
+next entry will be removed from index 50
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 51
+message was 16 seconds old.
+next entry will be placed at index 51
+next entry will be removed from index 51
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 52
+message was 16 seconds old.
+next entry will be placed at index 52
+next entry will be removed from index 52
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 53
+message was 16 seconds old.
+next entry will be placed at index 53
+next entry will be removed from index 53
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 54
+message was 16 seconds old.
+next entry will be placed at index 54
+next entry will be removed from index 54
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 55
+message was 16 seconds old.
+next entry will be placed at index 55
+next entry will be removed from index 55
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 56
+message was 16 seconds old.
+next entry will be placed at index 56
+next entry will be removed from index 56
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 57
+message was 16 seconds old.
+next entry will be placed at index 57
+next entry will be removed from index 57
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 58
+message was 16 seconds old.
+next entry will be placed at index 58
+next entry will be removed from index 58
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 59
+message was 16 seconds old.
+next entry will be placed at index 59
+next entry will be removed from index 59
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 60
+message was 16 seconds old.
+next entry will be placed at index 60
+next entry will be removed from index 60
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 61
+message was 16 seconds old.
+next entry will be placed at index 61
+next entry will be removed from index 61
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 62
+message was 16 seconds old.
+next entry will be placed at index 62
+next entry will be removed from index 62
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 63
+message was 16 seconds old.
+next entry will be placed at index 63
+next entry will be removed from index 63
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 64
+message was 16 seconds old.
+next entry will be placed at index 64
+next entry will be removed from index 64
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 65
+message was 16 seconds old.
+next entry will be placed at index 65
+next entry will be removed from index 65
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 66
+message was 16 seconds old.
+next entry will be placed at index 66
+next entry will be removed from index 66
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 67
+message was 16 seconds old.
+next entry will be placed at index 67
+next entry will be removed from index 67
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 68
+message was 16 seconds old.
+next entry will be placed at index 68
+next entry will be removed from index 68
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 69
+message was 16 seconds old.
+next entry will be placed at index 69
+next entry will be removed from index 69
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 70
+message was 16 seconds old.
+next entry will be placed at index 70
+next entry will be removed from index 70
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 71
+message was 16 seconds old.
+next entry will be placed at index 71
+next entry will be removed from index 71
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 72
+message was 16 seconds old.
+next entry will be placed at index 72
+next entry will be removed from index 72
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 73
+message was 16 seconds old.
+next entry will be placed at index 73
+next entry will be removed from index 73
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 74
+message was 16 seconds old.
+next entry will be placed at index 74
+next entry will be removed from index 74
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 75
+message was 16 seconds old.
+next entry will be placed at index 75
+next entry will be removed from index 75
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 76
+message was 16 seconds old.
+next entry will be placed at index 76
+next entry will be removed from index 76
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 77
+message was 16 seconds old.
+next entry will be placed at index 77
+next entry will be removed from index 77
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 78
+message was 16 seconds old.
+next entry will be placed at index 78
+next entry will be removed from index 78
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 79
+message was 16 seconds old.
+next entry will be placed at index 79
+next entry will be removed from index 79
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 80
+message was 16 seconds old.
+next entry will be placed at index 80
+next entry will be removed from index 80
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 81
+message was 16 seconds old.
+next entry will be placed at index 81
+next entry will be removed from index 81
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 82
+message was 16 seconds old.
+next entry will be placed at index 82
+next entry will be removed from index 82
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 83
+message was 16 seconds old.
+next entry will be placed at index 83
+next entry will be removed from index 83
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 84
+message was 16 seconds old.
+next entry will be placed at index 84
+next entry will be removed from index 84
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 85
+message was 16 seconds old.
+next entry will be placed at index 85
+next entry will be removed from index 85
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 86
+message was 16 seconds old.
+next entry will be placed at index 86
+next entry will be removed from index 86
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 87
+message was 16 seconds old.
+next entry will be placed at index 87
+next entry will be removed from index 87
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 88
+message was 16 seconds old.
+next entry will be placed at index 88
+next entry will be removed from index 88
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 89
+message was 16 seconds old.
+next entry will be placed at index 89
+next entry will be removed from index 89
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 90
+message was 16 seconds old.
+next entry will be placed at index 90
+next entry will be removed from index 90
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 91
+message was 16 seconds old.
+next entry will be placed at index 91
+next entry will be removed from index 91
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 92
+message was 16 seconds old.
+next entry will be placed at index 92
+next entry will be removed from index 92
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 93
+message was 16 seconds old.
+next entry will be placed at index 93
+next entry will be removed from index 93
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 94
+message was 16 seconds old.
+next entry will be placed at index 94
+next entry will be removed from index 94
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 95
+message was 16 seconds old.
+next entry will be placed at index 95
+next entry will be removed from index 95
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 96
+message was 16 seconds old.
+next entry will be placed at index 96
+next entry will be removed from index 96
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 97
+message was 16 seconds old.
+next entry will be placed at index 97
+next entry will be removed from index 97
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 98
+message was 16 seconds old.
+next entry will be placed at index 98
+next entry will be removed from index 98
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 99
+message was 16 seconds old.
+next entry will be placed at index 99
+next entry will be removed from index 99
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 4
+Next entry removed will come from index 99
+Highest topic number is 104
+Message said Season's Greetings!
+Entry number 100
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 4
+Next entry removed will come from index 99
+Highest topic number is 104
+Message said Season's Greetings!
+Entry number 101
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 4
+Next entry removed will come from index 99
+Highest topic number is 104
+Message said Season's Greetings!
+Entry number 102
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 4
+Next entry removed will come from index 99
+Highest topic number is 104
+Message said Season's Greetings!
+Entry number 103
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 4
+Next entry removed will come from index 99
+Highest topic number is 104
+Message said Season's Greetings!
+Entry number 104
+----------
+
+ Creating a topic: 0
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 5
+Next entry removed will be come from index 99
+Highest topic number is 105
+Message said Season's Greetings!
+Entry number 105
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 5
+Next entry removed will come from index 99
+Highest topic number is 105
+Message said Season's Greetings!
+Entry number 105
+----------
+
+ Creating a topic: 1
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 6
+Next entry removed will be come from index 99
+Highest topic number is 106
+Message said Season's Greetings!
+Entry number 106
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 6
+Next entry removed will come from index 99
+Highest topic number is 106
+Message said Season's Greetings!
+Entry number 106
+----------
+
+ Creating a topic: 2
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 7
+Next entry removed will be come from index 99
+Highest topic number is 107
+Message said Season's Greetings!
+Entry number 107
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 7
+Next entry removed will come from index 99
+Highest topic number is 107
+Message said Season's Greetings!
+Entry number 107
+----------
+
+ Creating a topic: 3
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 8
+Next entry removed will be come from index 99
+Highest topic number is 108
+Message said Season's Greetings!
+Entry number 108
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 8
+Next entry removed will come from index 99
+Highest topic number is 108
+Message said Season's Greetings!
+Entry number 108
+----------
+
+ Creating a topic: 4
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 9
+Next entry removed will be come from index 99
+Highest topic number is 109
+Message said Season's Greetings!
+Entry number 109
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 9
+Next entry removed will come from index 99
+Highest topic number is 109
+Message said Season's Greetings!
+Entry number 109
+----------
+
+ Creating a topic: 5
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 10
+Next entry removed will be come from index 99
+Highest topic number is 110
+Message said Season's Greetings!
+Entry number 110
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 10
+Next entry removed will come from index 99
+Highest topic number is 110
+Message said Season's Greetings!
+Entry number 110
+----------
+
+ Creating a topic: 6
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 11
+Next entry removed will be come from index 99
+Highest topic number is 111
+Message said Season's Greetings!
+Entry number 111
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 11
+Next entry removed will come from index 99
+Highest topic number is 111
+Message said Season's Greetings!
+Entry number 111
+----------
+
+ Creating a topic: 7
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 12
+Next entry removed will be come from index 99
+Highest topic number is 112
+Message said Season's Greetings!
+Entry number 112
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 12
+Next entry removed will come from index 99
+Highest topic number is 112
+Message said Season's Greetings!
+Entry number 112
+----------
+
+ Creating a topic: 8
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 13
+Next entry removed will be come from index 99
+Highest topic number is 113
+Message said Season's Greetings!
+Entry number 113
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 13
+Next entry removed will come from index 99
+Highest topic number is 113
+Message said Season's Greetings!
+Entry number 113
+----------
+
+ Creating a topic: 9
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 14
+Next entry removed will be come from index 99
+Highest topic number is 114
+Message said Season's Greetings!
+Entry number 114
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 14
+Next entry removed will come from index 99
+Highest topic number is 114
+Message said Season's Greetings!
+Entry number 114
+----------
+
+ Creating a topic: 10
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 15
+Next entry removed will be come from index 99
+Highest topic number is 115
+Message said Season's Greetings!
+Entry number 115
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 15
+Next entry removed will come from index 99
+Highest topic number is 115
+Message said Season's Greetings!
+Entry number 115
+----------
+
+ Creating a topic: 11
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 16
+Next entry removed will be come from index 99
+Highest topic number is 116
+Message said Season's Greetings!
+Entry number 116
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 16
+Next entry removed will come from index 99
+Highest topic number is 116
+Message said Season's Greetings!
+Entry number 116
+----------
+
+ Creating a topic: 12
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 17
+Next entry removed will be come from index 99
+Highest topic number is 117
+Message said Season's Greetings!
+Entry number 117
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 17
+Next entry removed will come from index 99
+Highest topic number is 117
+Message said Season's Greetings!
+Entry number 117
+----------
+
+ Creating a topic: 13
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 18
+Next entry removed will be come from index 99
+Highest topic number is 118
+Message said Season's Greetings!
+Entry number 118
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 18
+Next entry removed will come from index 99
+Highest topic number is 118
+Message said Season's Greetings!
+Entry number 118
+----------
+
+ Creating a topic: 14
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 19
+Next entry removed will be come from index 99
+Highest topic number is 119
+Message said Season's Greetings!
+Entry number 119
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 19
+Next entry removed will come from index 99
+Highest topic number is 119
+Message said Season's Greetings!
+Entry number 119
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 100
+message was 16 seconds old.
+next entry will be placed at index 0
+next entry will be removed from index 0
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 101
+message was 16 seconds old.
+next entry will be placed at index 1
+next entry will be removed from index 1
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 102
+message was 16 seconds old.
+next entry will be placed at index 2
+next entry will be removed from index 2
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 103
+message was 16 seconds old.
+next entry will be placed at index 3
+next entry will be removed from index 3
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 104
+message was 16 seconds old.
+next entry will be placed at index 4
+next entry will be removed from index 4
+----------
+
+ Creating a topic: 15
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 20
+Next entry removed will be come from index 4
+Highest topic number is 120
+Message said Season's Greetings!
+Entry number 120
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 20
+Next entry removed will come from index 4
+Highest topic number is 120
+Message said Season's Greetings!
+Entry number 120
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 105
+message was 16 seconds old.
+next entry will be placed at index 5
+next entry will be removed from index 5
+----------
+
+ Creating a topic: 16
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 21
+Next entry removed will be come from index 5
+Highest topic number is 121
+Message said Season's Greetings!
+Entry number 121
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 21
+Next entry removed will come from index 5
+Highest topic number is 121
+Message said Season's Greetings!
+Entry number 121
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 106
+message was 16 seconds old.
+next entry will be placed at index 6
+next entry will be removed from index 6
+----------
+
+ Creating a topic: 17
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 22
+Next entry removed will be come from index 6
+Highest topic number is 122
+Message said Season's Greetings!
+Entry number 122
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 22
+Next entry removed will come from index 6
+Highest topic number is 122
+Message said Season's Greetings!
+Entry number 122
+----------
+
+ Creating a topic: 18
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 23
+Next entry removed will be come from index 6
+Highest topic number is 123
+Message said Season's Greetings!
+Entry number 123
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 23
+Next entry removed will come from index 6
+Highest topic number is 123
+Message said Season's Greetings!
+Entry number 123
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 107
+message was 16 seconds old.
+next entry will be placed at index 7
+next entry will be removed from index 7
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 108
+message was 16 seconds old.
+next entry will be placed at index 8
+next entry will be removed from index 8
+----------
+
+ Creating a topic: 19
+
+----------
+Publisher thread 1 posted new entry in topic 1
+Next entry added will be placed at index 24
+Next entry removed will be come from index 8
+Highest topic number is 124
+Message said Season's Greetings!
+Entry number 124
+----------
+
+
+----------
+Subscriber Thread 1 read an entry from topic 1
+Next entry added will be placed at index 24
+Next entry removed will come from index 8
+Highest topic number is 124
+Message said Season's Greetings!
+Entry number 124
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 109
+message was 16 seconds old.
+next entry will be placed at index 9
+next entry will be removed from index 9
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 110
+message was 16 seconds old.
+next entry will be placed at index 10
+next entry will be removed from index 10
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 111
+message was 16 seconds old.
+next entry will be placed at index 11
+next entry will be removed from index 11
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 112
+message was 16 seconds old.
+next entry will be placed at index 12
+next entry will be removed from index 12
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 113
+message was 16 seconds old.
+next entry will be placed at index 13
+next entry will be removed from index 13
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 114
+message was 16 seconds old.
+next entry will be placed at index 14
+next entry will be removed from index 14
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 115
+message was 16 seconds old.
+next entry will be placed at index 15
+next entry will be removed from index 15
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 116
+message was 16 seconds old.
+next entry will be placed at index 16
+next entry will be removed from index 16
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 117
+message was 16 seconds old.
+next entry will be placed at index 17
+next entry will be removed from index 17
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 118
+message was 16 seconds old.
+next entry will be placed at index 18
+next entry will be removed from index 18
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 119
+message was 16 seconds old.
+next entry will be placed at index 19
+next entry will be removed from index 19
+----------
+
+Sub has not read in 11 seconds
+Sub has been terminated.
+
+----------
+Clean-up thread 1 deleted topic entry 120
+message was 16 seconds old.
+next entry will be placed at index 20
+next entry will be removed from index 20
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 121
+message was 16 seconds old.
+next entry will be placed at index 21
+next entry will be removed from index 21
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 122
+message was 16 seconds old.
+next entry will be placed at index 22
+next entry will be removed from index 22
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 123
+message was 16 seconds old.
+next entry will be placed at index 23
+next entry will be removed from index 23
+----------
+
+
+----------
+Clean-up thread 1 deleted topic entry 124
+message was 16 seconds old.
+next entry will be placed at index 24
+next entry will be removed from index 24
+----------
+
+delete has not deleted in 31 seconds. terminated.
