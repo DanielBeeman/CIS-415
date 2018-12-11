@@ -1,3 +1,16 @@
-Daniel Beeman, dbeeman, CIS 415 Project 1
-This is my own work except that one small piece is taken from online, which is commented.
-this project consumed a lot of my time. Part 1 alone took me the bulk of the project time. It was quite frustrating to me, but getting part 1 done alone is a triumph, which I will take! Part 2 doesn't seem to be too bad, but I wasn't quite able to complete it in time. Nothing else to be aware of.
+Daniel Beeman, dbeeman, CIS 415 Project 2
+
+This is my work except for the code that was provided to us. 
+
+-----
+The following commands execute test cases 1/2 for part 4:
+gcc -pthread P4T1.c
+gcc -pthread P4T2.c
+-----
+
+The output for both 1 and 2 are in files titled 'out1.txt' and 'out2.txt', respectively.
+
+I was able to complete test cases 1 and 2 for part 4. I belive I have the correct output. I check for memory errors for cases 1 and 2 and did not get any errors, so I believe my code is memory-leak free. 
+
+
+I am sure you are going to read many comments about how hard this project was. I think the hardest thing was managing time, and understanding what we needed to do for the project. After getting a low grade on the previous project and taking the midterm, it was hard to think about tackling another project, especially one with the scope of this one. It took me a long time to fully understand the prompt, and then work on part 4. It was also challenging writing all of the test cases, and checking if my output was correct. I believe it works right, but have no way of verifying if my output is correct with what we are supposed to output. This is frustrating considering how much work we all put into the project, and we do not have the security of knowing if we got even a small portion of the project correct. Anyway, I really enjoyed the idea of this project and enjoyed the challenge it presented. Even though I was not able to complete the entire thing, I am proud of my work and appreciate the opportunity to improve my coding skills. 
