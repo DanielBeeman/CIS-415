@@ -1,6 +1,3 @@
-This project took me a long time, and I think the biggest struggle was with the various pointers I needed to use. Roscoe was very helpful in 
-providing support and pointing me (no pun intended) in the right direction. After completing the tests and writing my main, working on memory
-errors also took me a while to complete. I have cited my sources and everything should work properly.
-
-
-~Daniel
+Daniel Beeman, dbeeman, CIS 415 Project 1
+This is my own work except that one small piece is taken from online, which is commented.
+this project consumed a lot of my time. Part 1 alone took me the bulk of the project time. It was quite frustrating to me, but getting part 1 done alone is a triumph, which I will take! Part 2 doesn't seem to be too bad, but I wasn't quite able to complete it in time. Nothing else to be aware of.
